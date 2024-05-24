@@ -7,6 +7,6 @@ How to use: <br>
 4.) Make a new database, naming it 'event_management' <br>
 5.)Once ur done making the database, select it from the left sidebar <br>
 6.) Click the Import tab at the top <br>
-7.) Import exported_sql.sql file
+7.) Import exported_sql.sql file <br>
 8.) Click Go <br>
 9.) Type 'localhost/event_management' in ur browser search bar to view the event management system <br>
